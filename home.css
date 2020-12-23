@@ -1,0 +1,119 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 100vh;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  animation-duration: 1000ms;
+  line-height: 1.1;
+  margin: 361px 119px 0 444px;
+}
+
+.u-section-1 .u-text-2 {
+  font-size: 4.5rem;
+  font-weight: 700;
+  animation-duration: 1000ms;
+  margin: -79px 806px 0 119px;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 700;
+  font-size: 4.5rem;
+  animation-duration: 1000ms;
+  margin: -79px 696px 60px 334px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1564px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 596px;
+    margin-left: 263px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 455px;
+    margin-left: 345px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-right: 345px;
+    margin-left: 514px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 2039px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 486px;
+    margin-left: 234px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 338px;
+    margin-left: 335px;
+  }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 20px;
+    margin-left: 335px;
+    margin-right: 338px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 50vw;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 266px;
+    margin-left: -20px;
+    margin-right: -20px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 282px;
+    margin-top: -244px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 100px;
+    margin-top: -21px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 100vh;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: 265px;
+    margin-left: 22px;
+    margin-right: 22px;
+  }
+
+  .u-section-1 .u-text-2 {
+    font-size: 3rem;
+    width: 151px;
+    margin-top: -175px;
+  }
+
+  .u-section-1 .u-text-3 {
+    font-size: 2.25rem;
+    width: 81px;
+    margin-top: 16px;
+  }
+}
